@@ -60,8 +60,13 @@ I build software that actually solves problems. I don't just write code; I think
 
 <div align="center">
 
-**Web & Mobile Frameworks**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,html,css,js,ts,tailwindcss,flutter,swift,kotlin,dart" alt="Frontend & Mobile Skills" />
+**🌐 Web Frameworks & Tech**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,html,css,js,ts,tailwindcss" alt="Web Skills" />
+
+<br><br>
+
+**📱 Mobile Frameworks**<br>
+<img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,dart" alt="Mobile Skills" />
 
 <br><br>
 
@@ -72,8 +77,6 @@ I build software that actually solves problems. I don't just write code; I think
 
 **IDEs, Version Control & Architecture**<br>
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,figma,postman,docker" alt="Tools & Architecture" />
-<br><br>
-<img src="https://img.shields.io/badge/Antigravity_Agents-000000?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
 
 </div>
 
