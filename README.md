@@ -56,7 +56,7 @@ I have a deep understanding of modern frameworks and tools, allowing me to build
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahbubshihab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahbubshihab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=stars,prs,issues,contribs" height="192px" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahbubshihab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
 </div>
 
