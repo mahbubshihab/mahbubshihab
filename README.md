@@ -44,7 +44,7 @@ I build software that actually solves problems. I don't just write code; I think
     <td width="50%" valign="top">
       <h4>🗄️ Backend & Cloud</h4>
       <p>I design secure, scalable, and cost-effective databases and serverless architectures that can handle high traffic without breaking a sweat.</p>
-      <em><strong>Stack:</strong> Firebase, Supabase, Postgres, MongoDB, Node</em>
+      <em><strong>Stack:</strong> Node.js, Nest.js, Express, Firebase, Supabase, Postgres, MongoDB</em>
     </td>
     <td width="50%" valign="top">
       <h4>🤖 AI & Automation</h4>
@@ -66,7 +66,7 @@ I build software that actually solves problems. I don't just write code; I think
 <br><br>
 
 **Backend, Cloud & Databases**<br>
-<img src="https://skillicons.dev/icons?i=python,nodejs,firebase,supabase,mysql,postgres,mongodb" alt="Backend & Database" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,firebase,supabase,mysql,postgres,mongodb" alt="Backend & Database" />
 
 <br><br>
 
