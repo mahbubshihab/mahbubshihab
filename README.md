@@ -35,13 +35,23 @@ I am a versatile **Software Engineer** specializing in cutting-edge web, mobile,
 
 <div align="center">
 
-**Frontend & Mobile**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,html,css,js,ts,tailwindcss,flutter,swift,kotlin,dart" alt="Frontend & Mobile Skills" />
+**🌐 Web Development**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,html,css,js,ts,tailwindcss" alt="Web Dev Skills" />
 
 <br><br>
 
-**Backend, Database & Tools**<br>
-<img src="https://skillicons.dev/icons?i=python,nodejs,firebase,supabase,mysql,postgres,mongodb,git,github,vscode,figma,postman,docker" alt="Backend & Tools" />
+**📱 Mobile App Development**<br>
+<img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,dart" alt="Mobile App Skills" />
+
+<br><br>
+
+**🗄️ Backend & Database**<br>
+<img src="https://skillicons.dev/icons?i=python,nodejs,firebase,supabase,mysql,postgres,mongodb" alt="Backend & Database" />
+
+<br><br>
+
+**⚙️ Tools & Architecture**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" alt="Tools & Architecture" />
 
 </div>
 
