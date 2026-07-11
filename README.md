@@ -60,25 +60,25 @@ I build software that actually solves problems. I don't just write code; I think
 
 <div align="center">
 
-**🌐 Web Frameworks & Tech**
+**🌐 Web Frameworks & Tech**<br>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,html,css,js,ts,tailwindcss" alt="Web Skills" />
-<br>
-<br>
 
-**📱 Mobile Frameworks**
+<br><br>
+
+**📱 Mobile Frameworks**<br>
 
 <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,dart" alt="Mobile Skills" />
-<br>
-<br>
 
-**🗄️ Backend, Cloud & Databases**
+<br><br>
+
+**🗄️ Backend, Cloud & Databases**<br>
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,firebase,supabase,mysql,postgres,mongodb" alt="Backend & Database" />
-<br>
-<br>
 
-**⚙️ IDEs, Version Control & Architecture**
+<br><br>
+
+**⚙️ IDEs, Version Control & Architecture**<br>
 
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,figma,postman,docker" alt="Tools & Architecture" />
 
