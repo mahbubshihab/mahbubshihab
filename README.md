@@ -4,6 +4,15 @@
 
 <h3 align="center">Transforming Ideas into Stunning Digital Experiences ✨</h3>
 
+<div align="center">
+  <a href="https://mahbubshihab.com"><img src="https://img.shields.io/badge/Website-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:contact@mahbubshihab.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mahbubshihab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/MahbubShihab9"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
+</div>
+
+<br>
+
 ---
 
 ### 👨‍💻 About Me
@@ -12,7 +21,7 @@
 - 💡 I love exploring new technologies and building advanced, high-performance applications.
 - 🎨 Passionate about UI/UX, ensuring that every project is not just functional but visually spectacular.
 - 🤝 Always open to collaborating on innovative and challenging tech projects.
-- 📫 How to reach me: **[Add your email here]**
+- 📫 Connect with me: **contact@mahbubshihab.com** | **[mahbubshihab.com](https://mahbubshihab.com)**
 
 ---
 
@@ -23,24 +32,16 @@ I have a deep understanding of modern frameworks and tools, allowing me to build
 <div align="center">
 
 #### 🌐 Web Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,html,css,js,ts,tailwind" />
-</a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,html,css,js,ts,tailwind" alt="Web Dev Skills" />
 
 #### 📱 Mobile App Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,dart" />
-</a>
+<img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,dart" alt="Mobile App Dev Skills" />
 
 #### 🗄️ Backend & Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgres,mongodb" />
-</a>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgres,mongodb" alt="Backend Skills" />
 
 #### ⚙️ Tools & Architecture
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" alt="Tools & Architecture" />
 
 </div>
 
@@ -55,8 +56,8 @@ I have a deep understanding of modern frameworks and tools, allowing me to build
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahbubshihab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubshihab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahbubshihab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahbubshihab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
 </div>
 
 ---
@@ -67,13 +68,3 @@ I have a deep understanding of modern frameworks and tools, allowing me to build
 * **Mobile Excellence:** Developing cross-platform and native mobile apps with Flutter, Kotlin, and Swift.
 * **Robust Backend:** Architecting scalable databases and serverless solutions with Firebase, Supabase, and SQL/NoSQL databases.
 * **Modern Tooling:** Utilizing Vite for fast builds and Git for smooth version control.
-
-<br>
-
-<div align="center">
-  <i>Let's connect and build something amazing together!</i>
-  <br><br>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
-</div>
