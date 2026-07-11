@@ -25,9 +25,9 @@ I am a versatile **Software Engineer** specializing in cutting-edge web, mobile,
 
 ## 🚀 What I Do
 
-| 🌐 Web Development | 📱 Mobile App Development | 🗄️ Backend & Cloud Architecture |
-| :--- | :--- | :--- |
-| Creating responsive, dynamic, and accessible user interfaces using **React, Next.js, and Vue.js**. Building fast, modern frontends with **Vite**. | Developing cross-platform and native mobile applications with native-like performance using **Flutter, Kotlin, and Swift**. | Architecting scalable databases and secure serverless solutions utilizing **Firebase, Supabase, MySQL, PostgreSQL, and MongoDB**. |
+| 🌐 Web Development | 📱 Mobile App Development | 🗄️ Backend & Cloud | 🤖 AI & Automation |
+| :--- | :--- | :--- | :--- |
+| Creating responsive, dynamic, and accessible user interfaces using **React, Next.js, and Vue.js**. Building fast, modern frontends with **Vite**. | Developing cross-platform and native mobile applications with native-like performance using **Flutter, Kotlin, and Swift**. | Architecting scalable databases and secure serverless solutions utilizing **Firebase, Supabase, MySQL, PostgreSQL, and MongoDB**. | Developing intelligent automation software, deploying **AI agents**, and integrating modern AI models into robust production environments. |
 
 ---
 
@@ -50,8 +50,10 @@ I am a versatile **Software Engineer** specializing in cutting-edge web, mobile,
 
 <br><br>
 
-**⚙️ Tools & Architecture**<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" alt="Tools & Architecture" />
+**⚙️ IDEs, Tools & Architecture**<br>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,figma,postman,docker" alt="Tools & Architecture" />
+<br><br>
+<img src="https://img.shields.io/badge/Antigravity_Agents-000000?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
 
 </div>
 
