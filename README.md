@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Mahbub+Shihab;Full-Stack+Web+%26+App+Developer;Passionate+about+Building+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Mahbub+Shihab;Full-Stack+Web+%26+App+Developer;AI+%26+Automation+Enthusiast;Let's+build+something+amazing" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Transforming Ideas into Stunning Digital Experiences ✨</h3>
+<p align="center">
+  <em>Turning bold ideas into scalable, intelligent software solutions.</em>
+</p>
 
 <div align="center">
   <a href="https://mahbubshihab.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
@@ -13,44 +15,62 @@
 
 <br>
 
-## 👨‍💻 About Me
+### 👋 A Little About Me
 
-I am a versatile **Software Engineer** specializing in cutting-edge web, mobile, and software development. My goal is to build scalable, high-performance applications that solve real-world problems and provide spectacular user experiences.
+I build software that actually solves problems. I don't just write code; I think about the end-user, the business logic, and how to make the final product as fast, secure, and beautiful as possible. Whether it's crafting a pixel-perfect web frontend, building a mobile app that feels incredibly smooth, or setting up AI agents to automate boring workflows—I love bringing complex architectures to life.
 
-- 🎯 **Current Focus (2026):** Architecting robust full-stack applications and exploring modern technology integrations.
-- 🤝 **Collaboration:** Always open to discussing innovative tech projects, SaaS ideas, and architectural challenges.
-- 📫 **Reach out:** Let's talk at **contact@mahbubshihab.com**
-
----
-
-## 🚀 What I Do
-
-| 🌐 Web Development | 📱 Mobile App Development | 🗄️ Backend & Cloud | 🤖 AI & Automation |
-| :--- | :--- | :--- | :--- |
-| Creating responsive, dynamic, and accessible user interfaces using **React, Next.js, and Vue.js**. Building fast, modern frontends with **Vite**. | Developing cross-platform and native mobile applications with native-like performance using **Flutter, Kotlin, and Swift**. | Architecting scalable databases and secure serverless solutions utilizing **Firebase, Supabase, MySQL, PostgreSQL, and MongoDB**. | Developing intelligent automation software, deploying **AI agents**, and integrating modern AI models into robust production environments. |
+- 💡 **My Philosophy:** Write clean code, prioritize user experience, and never stop learning.
+- 🎯 **Right Now:** I'm heavily focused on integrating AI into robust full-stack applications to save businesses hundreds of hours.
+- 🤝 **Let's Talk:** I'm always open to discussing SaaS ideas, startup architectures, or just geeking out over new tech.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🚀 How I Can Help You
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Web Development</h4>
+      <p>From high-converting landing pages to complex data dashboards, I build frontends that users love and backends that won't break. I focus heavily on performance and SEO.</p>
+      <em><strong>Stack:</strong> React, Next.js, Vue, Tailwind, Vite</em>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Mobile Experiences</h4>
+      <p>I craft cross-platform and native mobile applications that prioritize fluid UI/UX and deep hardware integration, ensuring a premium feel on both iOS and Android.</p>
+      <em><strong>Stack:</strong> Flutter, Kotlin, Swift</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗄️ Backend & Cloud</h4>
+      <p>I design secure, scalable, and cost-effective databases and serverless architectures that can handle high traffic without breaking a sweat.</p>
+      <em><strong>Stack:</strong> Firebase, Supabase, Postgres, MongoDB, Node</em>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 AI & Automation</h4>
+      <p>I help businesses automate repetitive tasks by building custom AI agents and seamlessly connecting LLMs into production environments.</p>
+      <em><strong>Focus:</strong> Antigravity, LLM Integration, Custom Agents</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ My Digital Toolkit
 
 <div align="center">
 
-**🌐 Web Development**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,html,css,js,ts,tailwindcss" alt="Web Dev Skills" />
+**Web & Mobile Frameworks**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,html,css,js,ts,tailwindcss,flutter,swift,kotlin,dart" alt="Frontend & Mobile Skills" />
 
 <br><br>
 
-**📱 Mobile App Development**<br>
-<img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,dart" alt="Mobile App Skills" />
-
-<br><br>
-
-**🗄️ Backend & Database**<br>
+**Backend, Cloud & Databases**<br>
 <img src="https://skillicons.dev/icons?i=python,nodejs,firebase,supabase,mysql,postgres,mongodb" alt="Backend & Database" />
 
 <br><br>
 
-**⚙️ IDEs, Tools & Architecture**<br>
+**IDEs, Version Control & Architecture**<br>
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,figma,postman,docker" alt="Tools & Architecture" />
 <br><br>
 <img src="https://img.shields.io/badge/Antigravity_Agents-000000?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
@@ -61,6 +81,6 @@ I am a versatile **Software Engineer** specializing in cutting-edge web, mobile,
 
 ---
 
-<div align="center">
-  <i>Let's connect and build something amazing together!</i>
-</div>
+<p align="center">
+  <b>Have an idea? Let's turn it into reality. <a href="mailto:contact@mahbubshihab.com">Say Hello!</a></b>
+</p>
