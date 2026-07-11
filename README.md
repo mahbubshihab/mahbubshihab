@@ -49,7 +49,7 @@ I build software that actually solves problems. I don't just write code; I think
     <td width="50%" valign="top">
       <h4>🤖 AI & Automation</h4>
       <p>I help businesses automate repetitive tasks by building custom AI agents and seamlessly connecting LLMs into production environments.</p>
-      <em><strong>Focus:</strong> Antigravity, LLM Integration, Custom Agents</em>
+      <em><strong>Focus:</strong> AI Integration in Web & Apps, LLMs, Automation</em>
     </td>
   </tr>
 </table>
