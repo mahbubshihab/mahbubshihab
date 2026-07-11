@@ -36,12 +36,12 @@ I am a versatile **Software Engineer** specializing in cutting-edge web, mobile,
 <div align="center">
 
 **Frontend & Mobile**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,html,css,js,ts,tailwind,flutter,swift,kotlin,dart" alt="Frontend & Mobile Skills" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,html,css,js,ts,tailwindcss,flutter,swift,kotlin,dart" alt="Frontend & Mobile Skills" />
 
 <br><br>
 
 **Backend, Database & Tools**<br>
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgres,mongodb,nodejs,git,github,vscode,figma,postman,docker" alt="Backend & Tools" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,firebase,supabase,mysql,postgres,mongodb,git,github,vscode,figma,postman,docker" alt="Backend & Tools" />
 
 </div>
 
